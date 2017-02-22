@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6A610EBD99C277292EA3383D7A742243A6203151",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E5D265BAAD9CF9C771DB25F70081B3FEA4F9FDEA" : 0,
+    "6A610EBD99C277292EA3383D7A742243A6203151" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FCE5A99-4E7D-413C-99F9-9FAD44BA24F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E5D265BAAD9CF9C771DB25F70081B3FEA4F9FDEA" : "",
+    "6A610EBD99C277292EA3383D7A742243A6203151" : "Charles\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenALPR",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenALPR\/OpenALPR.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/choff5507\/ANPR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A610EBD99C277292EA3383D7A742243A6203151"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dworak\/APNR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E5D265BAAD9CF9C771DB25F70081B3FEA4F9FDEA"
+    }
+  ]
+}
